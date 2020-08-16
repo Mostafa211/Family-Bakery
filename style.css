@@ -1,0 +1,301 @@
+body
+{
+    margin: 0;
+}
+
+.first
+{
+    padding-top: 240px;
+    padding-right: 2px;
+    text-align: center;
+    background-image: url(images/drew-coffman-1872.jpg);
+    background-size: cover;
+    background-position: center; 
+    height: 560px;
+}
+
+.p1
+{
+    font-family: "Alegreya Sans", sans-serif;
+    color: white;
+    font-size: 22px;
+    margin-bottom: 5px;
+    font-weight: 400;
+}
+
+.h1
+{
+    font-family: "Alegreya", serif;
+    color: white;
+    font-size: 76px;
+    font-weight: 400;
+    margin: 6px;
+}
+
+.p2
+{
+    font-family: "Alegreya Sans", sans-serif;
+    color: white;
+    font-size: 24px;
+    margin-top: 12px;
+    margin-bottom: 30px;
+    font-weight: 400;
+    line-height: 1.86em;
+}
+
+.btn1
+{
+    font-family: "Alegreya Sans", sans-serif;
+    font-size: 16px;
+    padding: 16.5px 28.8px;
+    font-weight: 600;
+    margin-right: 4px;
+    background-color: #8e7754;
+    color: white;
+    border: 2px transparent solid;
+    border-radius: 4px;
+}
+
+.btn2
+{
+    font-family: "Alegreya Sans", sans-serif;
+    font-size: 16px;
+    padding: 16.5px 28.8px;
+    font-weight: 600;
+    margin-left: 4px;
+    background-color: transparent;
+    color: white;
+    border: 2px white solid;
+    border-radius: 4px;
+}
+
+.second
+{
+    height: 537px;
+    padding: 90px 5.2%;
+    overflow: auto;
+}
+
+.second img
+{
+    float: left;
+    width: 46.75%;
+}
+
+.text1
+{
+    float: left;
+    width: 46.75%;
+    padding-left: 6.5%;
+    padding-top: 30px;
+}
+
+.text1 h2
+{
+    font-family: "Alegreya", serif;
+    line-height: 1.38em;
+    color: #303030;
+    font-size: 32px;
+    margin-bottom: 25px;
+    font-weight: 400;
+}
+
+.text1 p
+{
+    font-family: "Alegreya Sans", sans-serif;
+    line-height: 1.86em;
+    font-size: 17px;
+    color: #686868;
+    margin-bottom: 20px;
+    font-weight: 400;
+}
+
+.text1 ul
+{
+    font-family: "Alegreya Sans", sans-serif;
+    line-height: 3.75em;
+    font-size: 17px;
+    color: #686868;
+    margin: 25px 17px;
+    font-weight: 400;
+}
+
+.third
+{
+    height: 452px;
+    padding: 90px 5.2%;
+    overflow: auto;
+    background-color: #f8f8f8;
+}
+
+.third img
+{
+    float: left;
+    width: 46.75%;
+}
+
+.text2
+{
+    float: left;
+    width: 46.75%;
+    padding-right: 6.5%;
+    padding-top: 70px;
+}
+
+.text2 h2
+{
+    font-family: "Alegreya", serif;
+    line-height: 1.38em;
+    color: #303030;
+    font-size: 32px;
+    margin-bottom: 25px;
+    font-weight: 400;
+}
+
+.text2 p
+{
+    font-family: "Alegreya Sans", sans-serif;
+    line-height: 1.86em;
+    font-size: 17px;
+    color: #686868;
+    margin-bottom: 20px;
+    font-weight: 400;
+}
+
+.fourth
+{
+    height: 662px;
+    padding: 55px 5.2%;
+}
+
+.text3
+{
+    text-align: center;
+}
+
+.text3 h3
+{
+    font-family: "Alegreya", serif;
+    color: #303030;
+    font-size: 30px;
+    font-weight: 400;
+}
+
+.text3 p
+{
+    font-family: "Alegreya Sans", sans-serif;
+    font-size: 17px;
+    color: #888;
+    margin-bottom: 20px;
+    font-weight: 400;
+}
+
+.product
+{
+    overflow: auto;
+}
+
+.desc1
+{
+    padding-right: 20px;
+    text-align: center;
+    float: left;
+    box-sizing: border-box; 
+    width: 33.33333%;
+}
+
+.desc2
+{
+    padding: 0px 20px;
+    text-align: center;
+    float: left;
+    box-sizing: border-box; 
+    width: 33.33333%;
+}
+
+.desc3
+{
+    padding-left: 20px;
+    text-align: center;
+    float: left;
+    box-sizing: border-box; 
+    width: 33.33334%;
+}
+
+.fourth img
+{
+    width: 100%;
+}
+
+.product h4
+{
+    font-family: "Alegreya", serif;
+    line-height: 1.38em;
+    color: #303030;
+    font-size: 22px;
+    margin-bottom: 25px;
+    font-weight: 400;
+}
+
+.product p
+{
+    font-family: "Alegreya Sans", sans-serif;
+    line-height: 1.86em;
+    font-size: 17px;
+    color: #686868;
+    margin-bottom: 20px;
+    font-weight: 400;
+}
+
+.fifth
+{
+    height: 530px;
+    padding: 90px 5.2%;
+    overflow: hidden;
+    background-color: #f8f8f8;
+}
+
+iframe
+{
+    float: left;
+    width: 565px;
+    height: 530px;
+    border: 0;
+}
+
+.text4
+{
+    float: left;
+    width: 46.75%;
+    padding-right: 6.5%;
+}
+
+.text4 h2
+{
+    font-family: "Alegreya", serif;
+    line-height: 1.38em;
+    color: #303030;
+    font-size: 32px;
+    margin-bottom: 25px;
+    font-weight: 400;
+}
+
+.text4 p
+{
+    font-family: "Alegreya Sans", sans-serif;
+    line-height: 1.86em;
+    font-size: 17px;
+    color: #686868;
+    margin-bottom: 20px;
+    font-weight: 400;
+}
+
+.text4 ul
+{
+    font-family: "Alegreya Sans", sans-serif;
+    line-height: 3.75em;
+    font-size: 17px;
+    color: #686868;
+    margin: 25px 17px;
+    font-weight: 400;
+}
